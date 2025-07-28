@@ -49,7 +49,7 @@ graph LR
 3. **Flash Mob Performances**  
    - Illegal raves with participatory streaming
 4. **Critical Incident Documentation**  
-   - Eyewitness streams during school shootings
+   - Eyewitness streams during shootings or events where public safety suddenly becomes an immediate concern
 
 ## 📡 Network Topology
 ```mermaid
