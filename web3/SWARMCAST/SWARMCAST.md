@@ -83,17 +83,6 @@ Fallback:      TOR hidden service for discovery
 **Scale Limitations**          | Hybrid push-pull with 7-hop max  |
 **Forensic Analysis**          | Memory-only storage + secure wipe |
 
-## ⏱️ Latency Benchmarks
-```mermaid
-bar
-    title Average End-to-End Latency (ms)
-    Apple Facetime   : 1200
-    Discord Stage    : 900
-    SWARMCAST Target : 800
-    Periscope        : 3000
-    Real-Time Goal   : 500
-```
-
 ## 🚀 MVP Roadmap
 ```mermaid
 gantt
