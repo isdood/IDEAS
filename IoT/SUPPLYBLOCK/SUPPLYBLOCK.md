@@ -106,12 +106,6 @@ We're seeking:
 - **UI/UX designers** for audit dashboard  
 - **Domain experts** in logistics/supply chain  
 
-**Get started:**  
-```bash
-git clone https://github.com/your-repo/supplyblock  
-cd hardware/firmware  
-make deploy BBB_IP=192.168.7.2  # Flash your BBB
-```
 ---
 
 *"Trust isn't built in boardrooms – it's built in containers."*  
